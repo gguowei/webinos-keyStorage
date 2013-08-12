@@ -26,7 +26,7 @@
     "url": "https://github.com/webinos/webinos-keyStorage.git"
   },
   "dependencies": {
-    "webinos-utilities": "git://github.com/webinos/webinos-utilities.git"
+    "webinos-utilities": "https://github.com/gguowei/webinos-utilities/tarball/20130725"
   },
   "devDependencies" : {
     "webinos-utilities": "git://github.com/webinos/webinos-utilities.git",
